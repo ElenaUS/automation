@@ -7,6 +7,5 @@ importlib-metadata>=2.1.1
 virtualenv>=20.13.0
 jsonpickle>=2.1.0
 psycopg>=3.0.7
-psycopg
+psycopg2
 setuptools
-psycopg2-binary
