@@ -1,0 +1,38 @@
+[
+  {
+    "py/object": "model.base.Base", 
+    "username": null, 
+    "amount": "", 
+    "id": null
+  }, 
+  {
+    "py/object": "model.base.Base", 
+    "username": null, 
+    "amount": "5466", 
+    "id": null
+  }, 
+  {
+    "py/object": "model.base.Base", 
+    "username": null, 
+    "amount": "547", 
+    "id": null
+  }, 
+  {
+    "py/object": "model.base.Base", 
+    "username": null, 
+    "amount": "54496", 
+    "id": null
+  }, 
+  {
+    "py/object": "model.base.Base", 
+    "username": null, 
+    "amount": "5460", 
+    "id": null
+  }, 
+  {
+    "py/object": "model.base.Base", 
+    "username": null, 
+    "amount": "540", 
+    "id": null
+  }
+]
