@@ -10,3 +10,4 @@ psycopg>=3.0.7
 psycopg2
 setuptools
 wheel
+setuptools
