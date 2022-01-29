@@ -45,7 +45,7 @@ setup(
     description='Pyramid CRUD, admin web interface.',
     long_description=read('README.rst') + '\n' + read('CHANGES.rst'),
     install_requires=read('requirements.txt'),
-    tests_require=read('requirements.txt') + read('requirements-test.txt'),
+    tests_require=read('requirements.txt') + read('requirements.txt'),
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Environment :: Console',
