@@ -23,7 +23,7 @@ class PyTest(TestCommand):
     def finalize_options(self):
         TestCommand.finalize_options(self)
         self.verbose = True
-        self.test_suite = 'tests'
+        self.test_suite = 'test'
 
     def run_tests(self):
         import pytest
