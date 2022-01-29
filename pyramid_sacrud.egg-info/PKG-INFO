@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: pyramid-sacrud
+Version: 0.3.3
+Summary: Pyramid CRUD, admin web interface.
+Home-page: https://github.com/ElenaUS/automation.git
+Author: Elena Pakina
+Author-email: forumru22@gmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Natural Language :: Russian
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Framework :: Pyramid 
+Classifier: Topic :: Internet
+Classifier: Topic :: Database
+License-File: LICENSE
+
+
+
+
