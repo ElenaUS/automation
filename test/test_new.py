@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 from model.base import Base
 from model.login import Login
-
+import pytest
 
 def test_new(fix, json_data, db):
     element = json_data
@@ -13,7 +13,6 @@ def test_new(fix, json_data, db):
     res = map(clean, db.get_group_list())
 
     old_list = fix.check.get_list()
-    print(old_list)
     fix.check.create_amount(element)
     new_group = fix.check.get_list()
     # assert len(old_list) == len(new_group), "Списки транзакций не равны"

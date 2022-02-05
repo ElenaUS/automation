@@ -13,3 +13,5 @@ wheel
 setuptools
 libpq
 psycopg2-binary
+pytest-bdd
+behave

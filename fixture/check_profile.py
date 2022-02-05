@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 from time import sleep
 from model.data import Data
+from locators.locators import Page
 
 
 class Check:
